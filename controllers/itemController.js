@@ -123,7 +123,7 @@ exports.updateItem = async (req, res) => {
 
 exports.deleteItem = async (req, res) => {
 
-/* 
+/*       #elimina item
          #swagger.tags = ['Items']
          #swagger.description = ''
          #swagger.summary = ''
